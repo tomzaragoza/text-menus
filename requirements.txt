@@ -1,0 +1,5 @@
+flask
+foursquare
+requests
+twilio
+gunicorn
